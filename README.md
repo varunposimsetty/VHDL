@@ -1,3 +1,3 @@
 # VHDL
-Learning VHDL
+A repo of VHDL Projects. 
 
