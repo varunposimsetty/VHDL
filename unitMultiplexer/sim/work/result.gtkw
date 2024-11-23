@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Thu Nov 21 10:48:41 2024
+[*]
+[dumpfile] "C:\Users\Posimsetty\Downloads\powercycling-stimuli-generator-v3\unitLedControl\sim\work\result.ghw"
+[dumpfile_mtime] "Thu Nov 21 10:48:41 2024"
+[dumpfile_size] 1600617
+[savefile] "C:\Users\Posimsetty\Downloads\powercycling-stimuli-generator-v3\unitLedControl\sim\work\result.gtkw"
+[timestart] 0
+[size] 2560 1369
+[pos] -9 -9
+*-28.000000 2332000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb.
+[treeopen] top.tb.dut.
+[sst_width] 278
+[signals_width] 286
+[sst_expanded] 1
+[sst_vpaned_height] 425
+@28
+#{top.tb.dut.input_a[3:0]} top.tb.dut.input_a[3] top.tb.dut.input_a[2] top.tb.dut.input_a[1] top.tb.dut.input_a[0]
+#{top.tb.dut.sel[1:0]} top.tb.dut.sel[1] top.tb.dut.sel[0] 
+top.tb.dut.y
