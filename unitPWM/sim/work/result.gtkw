@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Mon Dec 09 08:06:32 2024
+[*]
+[dumpfile] "C:\Users\Posimsetty\Downloads\VHDL\unitPWM\sim\work\result.ghw"
+[dumpfile_mtime] "Mon Dec 09 08:06:20 2024"
+[dumpfile_size] 21003974
+[savefile] "C:\Users\Posimsetty\Downloads\VHDL\unitPWM\sim\work\result.gtkw"
+[timestart] 0
+[size] 2560 1369
+[pos] -1 -1
+*-29.489813 1236000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb.
+[treeopen] top.tb.dut.
+[sst_width] 278
+[signals_width] 286
+[sst_expanded] 1
+[sst_vpaned_height] 425
+@28
+top.tb.dut.i_clk_100mhz
+top.tb.dut.i_nrst_async
+@29
+top.tb.dut.i_enable
+@22
+#{top.tb.time_period[7:0]} top.tb.time_period[7] top.tb.time_period[6] top.tb.time_period[5] top.tb.time_period[4] top.tb.time_period[3] top.tb.time_period[2] top.tb.time_period[1] top.tb.time_period[0]
+#{top.tb.duty_cycle[7:0]} top.tb.duty_cycle[7] top.tb.duty_cycle[6] top.tb.duty_cycle[5] top.tb.duty_cycle[4] top.tb.duty_cycle[3] top.tb.duty_cycle[2] top.tb.duty_cycle[1] top.tb.duty_cycle[0]
+#{top.tb.dut.count[7:0]} top.tb.dut.count[7] top.tb.dut.count[6] top.tb.dut.count[5] top.tb.dut.count[4] top.tb.dut.count[3] top.tb.dut.count[2] top.tb.dut.count[1] top.tb.dut.count[0]
+@28
+top.tb.dut.o_pwm
+[pattern_trace] 1
+[pattern_trace] 0
