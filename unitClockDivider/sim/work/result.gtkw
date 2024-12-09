@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Mon Dec 09 11:04:37 2024
+[*]
+[dumpfile] "C:\Users\Posimsetty\Downloads\VHDL\unitClockDivider\sim\work\result.ghw"
+[dumpfile_mtime] "Mon Dec 09 11:04:13 2024"
+[dumpfile_size] 24374423
+[savefile] "C:\Users\Posimsetty\Downloads\VHDL\unitClockDivider\sim\work\result.gtkw"
+[timestart] 0
+[size] 2560 1369
+[pos] -1 -1
+*-28.000000 2332000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb.
+[treeopen] top.tb.dut.
+[sst_width] 278
+[signals_width] 286
+[sst_expanded] 1
+[sst_vpaned_height] 425
+@28
+top.tb.dut.i_clk_100mhz
+top.tb.dut.i_nrst_async
+top.tb.dut.i_enable
+@420
+top.tb.dut.count
+@29
+top.tb.dut.divided_clk
+[pattern_trace] 1
+[pattern_trace] 0
