@@ -15,5 +15,6 @@ A repo of VHDL projects as I learn VHDL.
 - 5. Shift Register - perfoming Right Shift which allows for parallel data load.
 - 6. A Johnson Counter - allows to perfom both left and right shifts.
 - 7. An N to 1 Mux 
-- 8. A PWM(Pulse Width Modulation) 
+- 8. A PWM(Pulse Width Modulation)
+- 9. Clock Divider - generic : 16 
 
