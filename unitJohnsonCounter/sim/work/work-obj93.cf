@@ -1,0 +1,7 @@
+v 4
+file "C:\Users\Posimsetty\Downloads\VHDL\unitJohnsonCounter\sim\" "../src/JohnsonCounter.vhd" "cc6c662db721dfe780874d9598992d982bc4fe99" "20241122094711.756":
+  entity johnsoncounter at 1( 0) + 0 on 11;
+  architecture rtl of johnsoncounter at 18( 475) + 0 on 12;
+file "C:\Users\Posimsetty\Downloads\VHDL\unitJohnsonCounter\sim\" "./tb_JohnsonCounter.vhd" "8717c47924f6fa856a5bc55e6edaeb99bef956eb" "20241122094711.756":
+  entity tb at 1( 0) + 0 on 13;
+  architecture bhv of tb at 8( 107) + 0 on 14;

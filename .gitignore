@@ -1,9 +1,8 @@
 ### compiled vhdl library
 *.cf
 
-
 ### simulation outputs
 *.ghw
 
 ### hidden system file
-*.DS_Store
+*.DS_Storeg
