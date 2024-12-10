@@ -1,14 +1,14 @@
 [*]
 [*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
-[*] Thu Nov 21 10:48:41 2024
+[*] Tue Dec 10 09:07:26 2024
 [*]
-[dumpfile] "C:\Users\Posimsetty\Downloads\powercycling-stimuli-generator-v3\unitLedControl\sim\work\result.ghw"
-[dumpfile_mtime] "Thu Nov 21 10:48:41 2024"
-[dumpfile_size] 1600617
-[savefile] "C:\Users\Posimsetty\Downloads\powercycling-stimuli-generator-v3\unitLedControl\sim\work\result.gtkw"
+[dumpfile] "C:\Users\Posimsetty\Downloads\VHDL\unitMultiplexer\sim\work\result.ghw"
+[dumpfile_mtime] "Tue Dec 10 09:06:58 2024"
+[dumpfile_size] 569
+[savefile] "C:\Users\Posimsetty\Downloads\VHDL\unitMultiplexer\sim\work\result.gtkw"
 [timestart] 0
 [size] 2560 1369
-[pos] -9 -9
+[pos] -1 -1
 *-28.000000 2332000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [treeopen] top.
 [treeopen] top.tb.
@@ -19,5 +19,7 @@
 [sst_vpaned_height] 425
 @28
 #{top.tb.dut.input_a[3:0]} top.tb.dut.input_a[3] top.tb.dut.input_a[2] top.tb.dut.input_a[1] top.tb.dut.input_a[0]
-#{top.tb.dut.sel[1:0]} top.tb.dut.sel[1] top.tb.dut.sel[0] 
+#{top.tb.dut.sel[1:0]} top.tb.dut.sel[1] top.tb.dut.sel[0]
 top.tb.dut.y
+[pattern_trace] 1
+[pattern_trace] 0

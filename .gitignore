@@ -6,3 +6,9 @@
 
 ### hidden system file
 *.DS_Storeg
+
+### Object Files
+*.o
+
+### Executable Files
+*.exe

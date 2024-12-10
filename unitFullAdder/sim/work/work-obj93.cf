@@ -1,7 +1,0 @@
-v 4
-file "C:\Users\Posimsetty\Downloads\VHDL\unitFullAdder\sim\" "./tb_FullAdder.vhd" "254fe9ece2ffc603294891685c7b2342ed97278f" "20241122094756.423":
-  entity tb at 1( 0) + 0 on 13;
-  architecture bhv of tb at 7( 79) + 0 on 14;
-file "C:\Users\Posimsetty\Downloads\VHDL\unitFullAdder\sim\" "../src/FullAdder.vhd" "97f42ec109f6e5fab39dbed11c6131e2814a8168" "20241122094756.423":
-  entity fulladder at 1( 0) + 0 on 11;
-  architecture rtl of fulladder at 15( 327) + 0 on 12;
