@@ -1,7 +1,0 @@
-v 4
-file "C:\Users\Posimsetty\Downloads\VHDL\unitShiftRegister\sim\" "../src/ShiftRegister.vhd" "8dba02b68d86c85fc5f41b0a7c4f855210fa7044" "20241122114605.918":
-  entity shiftregister at 1( 0) + 0 on 11;
-  architecture rtl of shiftregister at 21( 676) + 0 on 12;
-file "C:\Users\Posimsetty\Downloads\VHDL\unitShiftRegister\sim\" "./tb_ShiftRegister.vhd" "bd69c2818a3cdff99abef487062180de0912033c" "20241122114605.918":
-  entity tb at 1( 0) + 0 on 13;
-  architecture bhv of tb at 8( 107) + 0 on 14;

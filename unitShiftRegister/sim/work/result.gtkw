@@ -1,15 +1,15 @@
 [*]
 [*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
-[*] Fri Nov 22 11:46:16 2024
+[*] Tue Dec 10 09:09:42 2024
 [*]
 [dumpfile] "C:\Users\Posimsetty\Downloads\VHDL\unitShiftRegister\sim\work\result.ghw"
-[dumpfile_mtime] "Fri Nov 22 11:46:07 2024"
+[dumpfile_mtime] "Tue Dec 10 09:09:22 2024"
 [dumpfile_size] 7020893
 [savefile] "C:\Users\Posimsetty\Downloads\VHDL\unitShiftRegister\sim\work\result.gtkw"
-[timestart] 2005300000
+[timestart] 0
 [size] 2560 1369
 [pos] -1 -1
-*-26.000000 2008900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+*-28.904852 1715300000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [treeopen] top.
 [treeopen] top.tb.
 [treeopen] top.tb.dut.

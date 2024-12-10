@@ -1,15 +1,15 @@
 [*]
 [*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
-[*] Thu Nov 21 14:15:41 2024
+[*] Tue Dec 10 09:06:23 2024
 [*]
 [dumpfile] "C:\Users\Posimsetty\Downloads\VHDL\unitmtoNdecoder\sim\work\result.ghw"
-[dumpfile_mtime] "Thu Nov 21 14:15:41 2024"
-[dumpfile_size] 1600617
+[dumpfile_mtime] "Tue Dec 10 09:05:22 2024"
+[dumpfile_size] 662
 [savefile] "C:\Users\Posimsetty\Downloads\VHDL\unitmtoNdecoder\sim\work\result.gtkw"
 [timestart] 0
 [size] 2560 1369
-[pos] -9 -9
-*-28.000000 2332000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[pos] -1 -1
+*-28.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [treeopen] top.
 [treeopen] top.tb.
 [treeopen] top.tb.dut.
@@ -18,7 +18,8 @@
 [sst_expanded] 1
 [sst_vpaned_height] 425
 @28
-#{top.tb.dut.a[2:0]}  top.tb.dut.a[2] top.tb.dut.a[1] top.tb.dut.a[0]
-@28
-#{top.tb.dut.Y[7:0]}  top.tb.dut.Y[7] top.tb.dut.Y[6] top.tb.dut.Y[5] top.tb.dut.Y[4] top.tb.dut.Y[3] top.tb.dut.Y[2] top.tb.dut.Y[1] top.tb.dut.Y[0]
-[addwave] top.tb.dut.Y[7:0]
+#{top.tb.dut.a[2:0]} top.tb.dut.a[2] top.tb.dut.a[1] top.tb.dut.a[0]
+@29
+#{top.tb.dut.y[7:0]} top.tb.dut.y[7] top.tb.dut.y[6] top.tb.dut.y[5] top.tb.dut.y[4] top.tb.dut.y[3] top.tb.dut.y[2] top.tb.dut.y[1] top.tb.dut.y[0]
+[pattern_trace] 1
+[pattern_trace] 0

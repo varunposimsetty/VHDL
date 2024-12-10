@@ -1,7 +1,0 @@
-v 4
-file "C:\Users\Posimsetty\Downloads\VHDL\unitUpDownCounter\sim\" "./tb_UpDownCounter.vhd" "7bf44f8359e0d6cbbb22c9adb7dcfd638eaa2e10" "20241122074748.615":
-  entity tb at 1( 0) + 0 on 13;
-  architecture bhv of tb at 8( 107) + 0 on 14;
-file "C:\Users\Posimsetty\Downloads\VHDL\unitUpDownCounter\sim\" "../src/UpDownCounter.vhd" "82247959595268b611a68ac5edbc559caedb1302" "20241122074748.615":
-  entity updowncounter at 1( 0) + 0 on 11;
-  architecture rtl of updowncounter at 17( 358) + 0 on 12;

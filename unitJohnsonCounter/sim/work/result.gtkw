@@ -1,15 +1,15 @@
 [*]
 [*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
-[*] Fri Nov 22 09:43:41 2024
+[*] Tue Dec 10 09:04:54 2024
 [*]
 [dumpfile] "C:\Users\Posimsetty\Downloads\VHDL\unitJohnsonCounter\sim\work\result.ghw"
-[dumpfile_mtime] "Fri Nov 22 09:43:41 2024"
-[dumpfile_size] 1600617
+[dumpfile_mtime] "Tue Dec 10 09:03:43 2024"
+[dumpfile_size] 54000462
 [savefile] "C:\Users\Posimsetty\Downloads\VHDL\unitJohnsonCounter\sim\work\result.gtkw"
 [timestart] 0
 [size] 2560 1369
-[pos] -9 -9
-*-28.000000 2332000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[pos] -1 -1
+*-26.000000 306000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [treeopen] top.
 [treeopen] top.tb.
 [treeopen] top.tb.dut.
@@ -18,8 +18,11 @@
 [sst_expanded] 1
 [sst_vpaned_height] 425
 @28
-top.tb.dut.i_clk_100MHz
+top.tb.dut.i_clk_100mhz
 top.tb.dut.i_async_rst
 top.tb.dut.i_enable
 #{top.tb.dut.i_load[3:0]} top.tb.dut.i_load[3] top.tb.dut.i_load[2] top.tb.dut.i_load[1] top.tb.dut.i_load[0]
-#{top.tb.dut.Q[3:0]} top.tb.dut.Q[3] top.tb.dut.Q[2] top.tb.dut.Q[1] top.tb.dut.Q[0]
+@29
+#{top.tb.dut.q[3:0]} top.tb.dut.q[3] top.tb.dut.q[2] top.tb.dut.q[1] top.tb.dut.q[0]
+[pattern_trace] 1
+[pattern_trace] 0
