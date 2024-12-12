@@ -1,7 +1,7 @@
 # VHDL
 A repo of VHDL projects as I learn VHDL.
 ---
-##  **Tools Used **
+##  Tools Used 
 - **GHDL** : For compiling and simulating the VHDL code.
 - **GTKWave** : For viewing the simulation waveforms.
 
