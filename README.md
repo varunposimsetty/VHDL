@@ -1,5 +1,5 @@
-# VHDL
-A repo of VHDL projects as I learn VHDL.
+# VHDL 
+A repo of VHDL projects as I learn VHDL. Practicing VHDL 
 ---
 ##  Tools Used 
 - **GHDL** : For compiling and simulating the VHDL code.
