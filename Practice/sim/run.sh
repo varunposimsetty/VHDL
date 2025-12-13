@@ -8,14 +8,15 @@ GTKPROJ_FILE=result.gtkw
 mkdir -p $WORK_DIR
 
 # importing source files
-ghdl -i --workdir=$WORK_DIR ../src/UpDownCounter.vhd
-ghdl -i --workdir=$WORK_DIR ./tb_UpDownCounter.vhd
+ghdl -i --workdir=$WORK_DIR ../src/test_2.vhd
+
+ghdl -i --workdir=$WORK_DIR ./tb_test_2.vhd
 
 # building simulation files
-ghdl -m --workdir=$WORK_DIR tb
+ghdl -m --workdir=$WORK_DIR tb_shift_reg
 
 # running the simulation
-ghdl -r --workdir=$WORK_DIR tb --wave=$WORK_DIR/$WAVE_FILE --stop-time=30ms
+ghdl -r --workdir=$WORK_DIR tb_shift_reg --wave=$WORK_DIR/$WAVE_FILE --stop-time=5ms
 
 # open gtkwave with project with new waveform if project exists, if not then just open the waveform in new project
 if [ -f $WORK_DIR/$GTKPROJ_FILE ]; then
