@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1762781486" />
+    <testcase name="full_adder_random_test" classname="test_dut" file="C:\Users\Posimsetty\Desktop\VHDL\unitFullAdder\sim\test_dut.py" lineno="8" time="0.0028543472290039062" sim_time_ns="10.000001" ratio_time="3503.428349006348" />
+  </testsuite>
+</testsuites>

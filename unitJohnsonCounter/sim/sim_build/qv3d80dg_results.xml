@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1762784249" />
+    <testcase name="test_create_clock" classname="test_dut" file="C:\Users\Posimsetty\Desktop\VHDL\unitJohnsonCounter\sim\test_dut.py" lineno="7" time="0.0003147125244140625" sim_time_ns="1e-06" ratio_time="0.00317750303030303">
+      <failure message="Test failed with RANDOM_SEED=1762784249" />
+    </testcase>
+  </testsuite>
+</testsuites>
